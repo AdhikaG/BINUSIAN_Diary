@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424039436845",
+    "firebase_url": "https://binusian-diary.firebaseio.com",
+    "project_id": "binusian-diary",
+    "storage_bucket": "binusian-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424039436845:android:e7af2b159664f4585b5ea4",
+        "android_client_info": {
+          "package_name": "com.example.binusiandiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424039436845-j2e1ldj508r30ena7e8tik9s0jembihd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.binusiandiary",
+            "certificate_hash": "2ff2a9339e172578fc15efba31eda3885c78ae3b"
+          }
+        },
+        {
+          "client_id": "424039436845-bli084tr03ci1sbqc3s4frb3e6kvo95l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrD8ddAnezrtXE_ZMujwOOrfI5Ud9OQ3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424039436845-bli084tr03ci1sbqc3s4frb3e6kvo95l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

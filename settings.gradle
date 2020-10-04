@@ -1,0 +1,2 @@
+rootProject.name='BINUSIAN Diary'
+include ':app'
